@@ -1,7 +1,6 @@
 # JYSwitchButton
-### <p>滑动开关按钮</p>
-
-[我的文章：自定义view-滑动开关](http://blog.csdn.net/ha_cjy/article/details/78562121)
+### <p>滑动开关按钮</p>[我的文章：自定义view-滑动开关](http://blog.csdn.net/ha_cjy/article/details/78562121)
+<img src="https://github.com/hacjy/JYSwitchButton/blob/master/JYSwitchButton/snapshot/JYSwitchButton.gif" alt="效果图"/>
 
 1、支持自定义属性：
 
