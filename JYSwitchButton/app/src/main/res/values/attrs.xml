@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- JYSwitchButton的自定义属性
+     openColor：开启状态的颜色
+     closeColor：关闭状态的颜色
+     circleColor：滑动圆形图标的颜色
+     openText：开启状态的文本
+     closeText：关闭状态的文本
+     openTextColor：开启状态的文本颜色
+     closeTextColor：关闭状态的文本颜色
+     android:textSize：字体大小
+     -->
+    <declare-styleable name="switchbutton">
+        <attr name="openColor" format="integer"></attr>
+        <attr name="closeColor" format="integer"></attr>
+        <attr name="circleColor" format="integer"></attr>
+        <attr name="openText" format="string"></attr>
+        <attr name="closeText" format="string"></attr>
+        <attr name="openTextColor" format="integer"></attr>
+        <attr name="closeTextColor" format="integer"></attr>
+        <attr name="textSize" format="dimension"></attr>
+    </declare-styleable>
+</resources>
